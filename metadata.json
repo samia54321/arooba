@@ -1,0 +1,6 @@
+{
+  "name": "Vero Forno - Artisanal Wood-Fired Pizza",
+  "description": "Modern artisanal pizza restaurant featuring wood-fired sourdough pizzas, online ordering, custom crust & toppings selection, real-time order tracking, and chef admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

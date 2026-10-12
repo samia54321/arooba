@@ -1,0 +1,35 @@
+[
+  {
+    "customerName": "Demo Customer",
+    "customerEmail": "demo@example.com",
+    "customerPhone": "555-1234",
+    "orderType": "delivery",
+    "address": {
+      "street": "100 Market St",
+      "city": "San Francisco",
+      "zipCode": "94105"
+    },
+    "items": [
+      {
+        "pizzaId": "pizza-1",
+        "name": "Margherita D.O.P.",
+        "price": 16.5,
+        "size": "classic",
+        "crust": "Traditional Neapolitan",
+        "extraToppings": [],
+        "quantity": 1
+      }
+    ],
+    "subtotal": 16.5,
+    "tax": 1.4,
+    "deliveryFee": 3.99,
+    "tip": 2.5,
+    "total": 24.39,
+    "paymentMethod": "card",
+    "status": "pending",
+    "orderNumber": "VF-752498",
+    "createdAt": "2026-10-12T15:56:14.423Z",
+    "estimatedDeliveryTime": "04:31 PM",
+    "id": "order-1791820574425"
+  }
+]
